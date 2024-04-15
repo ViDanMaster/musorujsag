@@ -19,7 +19,7 @@ To set up the TV Schedule application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Import the SQL script provided into your MySQL database management tool.
-3. Configure the database connection settings in the PHP files (`config.php`).
+3. Configure the database connection settings in the PHP files (`db_config.php`).
 4. Run the PHP application on a local server environment.
 
 ## Database Initialization
